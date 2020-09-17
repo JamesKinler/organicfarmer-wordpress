@@ -9,6 +9,7 @@
   <script src="https://use.typekit.net/soj6fwz.css"></script>
   <script try{Typekit.load({="try{Typekit.load({" async:="async:" true="true" });}catch(e){}="});}catch(e){}"></script> -->
 </head>
+<?php wp_head(); ?>
 <header class="singlepage_header">
   <nav class="navbar navbar-expand-lg navbar-light">
     <a class="navbar-band" href="/organicfarmer/">
@@ -31,4 +32,3 @@
     ?>
   </nav>
 </header>
-<?php wp_head(); ?>
