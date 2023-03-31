@@ -11,6 +11,7 @@
   <script try{Typekit.load({="try{Typekit.load({" async:="async:" true="true" });}catch(e){}="});}catch(e){}"></script> -->
 </head>
 <?php wp_head(); ?>
+<body>
 <header class="homepage_header">
   <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top">
     <a class="navbar-band" href="/organicfarmer/">
