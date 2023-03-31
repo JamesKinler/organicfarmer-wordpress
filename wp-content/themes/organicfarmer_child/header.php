@@ -9,8 +9,8 @@
   <link rel="stylesheet" href="https://use.typekit.net/soj6fwz.css">
   <!-- <script src="https://use.typekit.net/soj6fwz.css"></script>
   <script try{Typekit.load({="try{Typekit.load({" async:="async:" true="true" });}catch(e){}="});}catch(e){}"></script> -->
+  <?php wp_head(); ?>
 </head>
-<?php wp_head(); ?>
 <body>
 <header class="homepage_header">
   <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top">
